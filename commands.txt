@@ -1,0 +1,38 @@
+wait 300;
+click;
+wait 5000;
+click;
+wait 300;
+click;
+wait 5000;
+click;
+wait 300;
+click;
+wait 5000;
+click;
+
+wait 300;
+click;
+wait 5000;
+click;
+wait 300;
+click;
+wait 5000;
+click;
+wait 300;
+click;
+wait 5000;
+click;
+
+wait 300;
+click;
+wait 5000;
+click;
+wait 300;
+click;
+wait 5000;
+click;
+wait 300;
+click;
+wait 5000;
+click;
